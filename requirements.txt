@@ -1,0 +1,9 @@
+
+librosa
+pytube
+moviepy
+scikit-learn
+numpy
+pandas
+matplotlib
+tensorflow
